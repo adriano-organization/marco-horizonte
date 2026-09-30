@@ -16,7 +16,7 @@ HTML + CSS + JavaScript ES modules, sem instalação e sem build.
 
 ## Entrega em três fases
 
-- **Fase 1:** `docs/FASE-1.md` — assunções, paleta provisória, contrastes, sitemap e modelo de dados.
+- **Fase 1:** `docs/FASE-1.md` — assunções, paleta da marca, contrastes, sitemap e modelo de dados.
 - **Fase 2:** `index.html`, `css/styles.css`, `js/app.js`, `js/utils.js` — site e páginas de loja, pesquisa, filtros e Leaflet.
 - **Fase 3:** `js/viewer.js`, `data/folheto-exemplo.pdf`, `docs/FASE-3-ADMIN.md` — folheto integrado, plano do painel e checklist.
 
@@ -25,9 +25,9 @@ HTML + CSS + JavaScript ES modules, sem instalação e sem build.
 | Ficheiro | Conteúdo |
 |---|---|
 | `data/config.json` | Marca, paleta, textos, redes, contactos, catálogo de serviços, SEO |
-| `data/lojas.json` | Oito lojas, horários, exceções, coordenadas e fotografias |
+| `data/lojas.json` | Nove lojas, horários, exceções, coordenadas e fotografias |
 | `data/folheto.json` | Caminho, validade e título do PDF |
-| `assets/` | Logo futuro e fotografias |
+| `assets/` | Logo fornecido e fotografias da marca |
 
 Todos os conteúdos editoriais vêm dos JSON. O HTML contém apenas estrutura, metadados de arranque e mensagem de falta de JavaScript; o JS tem uma mensagem de emergência se os próprios dados não puderem ser lidos. Ícones e elementos de interface são código.
 
@@ -35,7 +35,7 @@ Páginas: `/`, `/?pagina=lojas`, `/?loja=lousada` e os restantes slugs. Atualize
 
 ## Assunções
 
-Os anexos não foram recebidos nesta sessão. Identidade visual, símbolo M e fotografia são provisórios. Dados desconhecidos permanecem explícitos. O mapa tem vista geral da região, não oito localizações inventadas. Mostrará automaticamente cada ponto que receber coordenadas. Os serviços do catálogo são exemplos por confirmar, nunca serviços atribuídos às lojas. O PDF de demonstração não contém ofertas.
+O logo e as fotografias fornecidos estão integrados. A paleta foi extraída do logo raster: azul #1C3A7A e laranja #D3672E. Os serviços continuam por confirmar, com configuração individual em cada loja. Os dados públicos consultados estão em `fontes` de cada registo; divergências estão em `notaDados`. Existem horários para oito lojas, sete telefones e oito moradas. Apenas Boelhe tem coordenadas GPS verificadas; as restantes lojas têm pesquisa Google Maps, sem pontos inventados. Vila Boa de Quires tem horário por confirmar. O PDF continua a ser uma demonstração sem ofertas reais.
 
 ## Verificar
 
@@ -43,8 +43,10 @@ Os anexos não foram recebidos nesta sessão. Identidade visual, símbolo M e fo
 node tests/validate.mjs
 ```
 
-Testa JSON, oito slugs, horários desconhecidos, intervalos, fecho, turnos noturnos, exceções, validade e contrastes. Ver `docs/VALIDACAO.md` para verificações do navegador e limitações.
+Testa JSON, nove slugs, fontes, horários desconhecidos, intervalos, fecho, turnos noturnos, exceções, validade e contrastes. Ver `docs/VALIDACAO.md` para verificações do navegador e limitações.
 
-## Fotografia
+## Fotografias e pré-visualizações
 
-Imagem ilustrativa proveniente de [Brooklyn’s Best Ethnic Food Markets](https://www.mkrealtyny.com/blog/brooklyns-best-ethnic-food-markets/), ficheiro identificado pela origem como Pexels / Daria Shevtsova, n.º 1508666. A licença na página original do fotógrafo não foi confirmada; substituir por imagem própria ou verificar a licença antes de publicar. Guardada localmente para permitir testar o protótipo.
+Fotografias fornecidas pela marca, com filtros CSS de saturação, contraste e brilho. Não foram atribuídas a lojas específicas sem confirmação. A antiga imagem ilustrativa permanece no arquivo, mas já não é usada no site.
+
+Ver `docs/preview-desktop.png` e `docs/preview-mobile.png`. A assinatura do rodapé liga à DevPlus e usa o símbolo D+ do seu site. Não existe ligação ao Instagram no rodapé.

@@ -1,33 +1,26 @@
 # Fase 1 — Direção visual e dados
 
-## O que foi possível analisar
+## Identidade atualizada — 30 de setembro de 2026
 
-Os anexos (logo, screenshots do Instagram e PDF) não estavam disponíveis na conversa nem na pasta. Por isso, não foi extraída uma paleta do logo e não foi inferido o estilo do Instagram. A assinatura tipográfica e o símbolo M são provisórios, não uma reprodução da identidade oficial. A única informação factual utilizada foi a marca, a região e a lista das oito lojas fornecidas.
+Logo e fotografias fornecidos pela marca integrados. Azul #1C3A7A e laranja #D3672E extraídos dos píxeis predominantes do logo raster; branco #FFFFFF. Manrope nos títulos e DM Sans no corpo. Fotografias de loja, linguagem direta, preços baixos e proximidade. Os filtros CSS tornam as fotografias mais vivas sem alterar os ficheiros originais.
 
-Direção proposta: verde profundo, lima, fotografia de mercado, títulos grandes, composição espaçosa, cantos assimétricos na imagem principal e entradas suaves. Manrope nos títulos e DM Sans no texto; ambas têm fallback sans-serif. A fotografia é ilustrativa, não retrata instalações ou produtos confirmados da rede.
-
-Referências consultadas: [Sincro](https://sincro.es/en/us/), [Alejandro HA](https://alejandroha.com) e [AltaMed Foundation](https://altamedfoundation.org). Foram usadas como orientação editorial; não é uma reprodução das suas animações.
-
-## Paleta provisória
-
-| Variável CSS | Hex | Aplicação |
+| Variável | Hex | Uso |
 |---|---|---|
-| `--primaria` | `#183D32` | títulos, botões e blocos escuros |
-| `--secundaria` | `#D5EB67` | realce |
-| `--acento` | `#D5EB67` | ações em superfícies escuras |
-| `--neutro` | `#E5E6DF` | divisórias |
-| `--fundo` | `#F7F8F2` | fundo principal |
-| `--texto` | `#183D32` | texto |
-| `--muted` | `#58665E` | texto secundário |
-| `--branco` | `#FFFFFF` | texto em fundo verde |
+| primaria | #1C3A7A | Marca e fundos azuis |
+| secundaria / acento | #D3672E | Detalhes da marca |
+| laranjaTexto | #AB4212 | Texto e botões acessíveis |
+| neutro | #DFE5EF | Divisórias |
+| fundo | #FFFFFF | Fundo |
+| texto | #142B59 | Texto principal |
+| muted | #52617B | Texto secundário |
 
-Os valores editáveis estão em `data/config.json`, aplicados como variáveis CSS. Valores iniciais em CSS evitam mudanças de cor durante o carregamento.
+Contrastes sobre branco: azul 10,85:1; laranja escuro 5,97:1; texto 13,82:1; secundário 6,26:1. Estes pares passam WCAG AA para texto normal. O laranja original fica reservado a detalhes gráficos. Não é uma auditoria WCAG integral.
 
-Contrastes calculados: verde/fundo **11,22:1**; verde/lima **9,08:1**; branco/verde **11,98:1**; texto secundário/fundo **5,66:1**; texto secundário/superfície `#E9EDDF` **5,07:1**. Estes pares passam AA para texto normal. Não usar branco sobre lima. Esta verificação não equivale a uma auditoria WCAG integral; revalidar após aplicar a marca real.
+Slogan: «Marco Horizonte, a fonte dos preços baixos». Nove lojas, incluindo Vila Boa de Quires. Serviços configurados por loja, sem atribuições inventadas. Dados públicos e fontes em `lojas.json`; horários de feriados, serviços e e-mails ainda precisam de confirmação. Só Boelhe dispõe de coordenadas verificadas. Ver README para limitações dos dados.
 
 ## Sitemap
 
-- `/` — início, marca, folheto, oito lojas, serviços e contactos.
+- `/` — início, marca, folheto, nove lojas, serviços e contactos.
 - `/?pagina=lojas` — pesquisa, filtro e mapa.
 - `/?loja=lousada` — página própria; a mesma estrutura serve os oito slugs.
 - Folheto — diálogo a ocupar o ecrã, acessível a partir do início.

@@ -2,12 +2,13 @@
   "marca": {
     "nome": "Marco Horizonte",
     "assinatura": "SUPERMERCADOS",
-    "logo": null,
-    "provisoria": true,
+    "logo": "assets/logo-marco-horizonte.png",
+    "provisoria": false,
     "linhas": [
       "marco",
       "horizonte"
-    ]
+    ],
+    "slogan": "Marco Horizonte, a fonte dos preços baixos"
   },
   "contactos": {
     "telefone": "[A PREENCHER]",
@@ -17,20 +18,21 @@
     "instagram": "https://www.instagram.com/marcohorizonte.supermercados/"
   },
   "seo": {
-    "titulo": "Marco Horizonte · O seu supermercado de proximidade",
-    "descricao": "Conheça as oito lojas Marco Horizonte, encontre a sua loja e consulte o folheto digital.",
+    "titulo": "Marco Horizonte · A fonte dos preços baixos",
+    "descricao": "Conheça as nove lojas Marco Horizonte, consulte os horários e descubra o folheto digital.",
     "siteUrl": null,
     "imagem": null
   },
   "paleta": {
-    "primaria": "#183D32",
-    "secundaria": "#D5EB67",
-    "acento": "#D5EB67",
-    "neutro": "#E5E6DF",
-    "fundo": "#F7F8F2",
-    "texto": "#183D32",
-    "muted": "#58665E",
-    "branco": "#FFFFFF"
+    "primaria": "#1C3A7A",
+    "secundaria": "#D3672E",
+    "acento": "#D3672E",
+    "neutro": "#DFE5EF",
+    "fundo": "#FFFFFF",
+    "texto": "#142B59",
+    "muted": "#52617B",
+    "branco": "#FFFFFF",
+    "laranjaTexto": "#AB4212"
   },
   "mapa": {
     "centro": [
@@ -92,28 +94,30 @@
       }
     ],
     "hero": {
-      "eyebrow": "PERTO DE SI. TODOS OS DIAS.",
-      "titulo": "O melhor do dia,",
-      "destaque": "aqui ao lado.",
-      "descricao": "À mesa, nas pequenas rotinas e na vida do bairro. Há sempre um Marco Horizonte perto de si.",
+      "eyebrow": "9 LOJAS. SEMPRE PERTO DE SI.",
+      "titulo": "Marco Horizonte,",
+      "destaque": "a fonte dos\npreços baixos.",
+      "descricao": "Da frescura de todos os dias às compras para a semana. Os preços baixos têm lugar aqui, perto de si.",
       "cta": "Encontre a sua loja",
       "secundario": "Conheça o nosso horizonte",
-      "imagem": "assets/legumes.jpg",
-      "alt": "Seleção de legumes frescos — fotografia ilustrativa",
-      "legenda": "Imagem ilustrativa",
-      "selo": "Da nossa vizinhança.\nPara a sua mesa."
+      "imagem": "assets/fruta-loja.png",
+      "alt": "Banca de fruta e legumes numa loja Marco Horizonte, em fotografia fornecida pela marca",
+      "legenda": "Fotografia da marca · imagem de arquivo",
+      "selo": "Mais frescura.\nMais poupança."
     },
     "faixa": [
-      "8 lojas, um só horizonte",
-      "O seu supermercado de proximidade",
+      "9 lojas, um só horizonte",
+      "A fonte dos preços baixos",
       "Marco de Canaveses e região"
     ],
     "sobre": {
       "etiqueta": "01 / O NOSSO HORIZONTE",
-      "titulo": "Fazemos parte\ndo seu dia.",
-      "descricao": "A lista de compras muda. A vontade de estar perto mantém-se. Conheça as oito lojas Marco Horizonte e encontre o seu ponto de encontro para as compras do dia a dia.",
-      "destaque": "8",
-      "legenda": "lojas à sua espera"
+      "titulo": "A sua rotina.\nO nosso compromisso.",
+      "descricao": "A lista de compras muda. A vontade de estar perto mantém-se. Conheça as nove lojas Marco Horizonte e encontre o seu ponto de encontro para as compras do dia a dia.",
+      "destaque": "9",
+      "legenda": "lojas à sua espera",
+      "imagem": "assets/interior-loja.png",
+      "alt": "Corredor de supermercado Marco Horizonte — fotografia fornecida pela marca"
     },
     "folheto": {
       "etiqueta": "02 / FOLHEIE AS NOVIDADES",
@@ -129,7 +133,7 @@
     "lojas": {
       "etiqueta": "03 / SEMPRE POR PERTO",
       "titulo": "Qual é a sua\nMarco Horizonte?",
-      "descricao": "Oito lojas. A mesma proximidade. Encontre a sua.",
+      "descricao": "Nove lojas. A mesma proximidade. Encontre a sua.",
       "todas": "Explorar todas as lojas",
       "pesquisa": "Pesquisar por nome da loja",
       "filtros": "Filtrar por serviço",
@@ -137,7 +141,7 @@
       "resultado": "lojas encontradas",
       "vazio": "Não encontrámos lojas com estes critérios.",
       "limpar": "Limpar filtros",
-      "mapaNota": "As localizações serão apresentadas assim que as coordenadas forem confirmadas.",
+      "mapaNota": "Pontos com coordenadas identificadas em fontes públicas. Nas restantes lojas, consulte a morada ou abra a pesquisa no Google Maps.",
       "mapaErro": "Não foi possível carregar o mapa. A lista de lojas continua disponível.",
       "ver": "Conhecer a loja",
       "semFoto": "Fotografia da loja por adicionar",
@@ -165,13 +169,18 @@
       "chegar": "Como chegar",
       "waze": "Abrir no Waze",
       "regresso": "Todas as lojas",
-      "naoEncontrada": "Loja não encontrada"
+      "naoEncontrada": "Loja não encontrada",
+      "fonte": "Dados públicos · confirme antes de se deslocar",
+      "fontes": "Fontes e confirmação",
+      "pesquisarMapa": "Localizar no Google Maps",
+      "coordenadasPendentes": "Coordenadas da loja por confirmar.",
+      "resultadoSingular": "loja encontrada"
     },
     "servicos": {
-      "etiqueta": "04 / À SUA MEDIDA",
+      "etiqueta": "NESTA LOJA",
       "titulo": "O que precisa,\nmais perto.",
-      "descricao": "Os serviços disponíveis em cada loja serão apresentados após confirmação.",
-      "pendente": "Disponibilidade a confirmar"
+      "descricao": "Conheça os serviços disponíveis nesta loja.",
+      "pendente": "Os serviços desta loja estão a ser confirmados. Contacte-nos para saber mais."
     },
     "contactos": {
       "etiqueta": "VAMOS CONVERSAR?",
@@ -180,8 +189,8 @@
       "instagram": "Siga o nosso dia a dia",
       "lojas": "Encontrar uma loja"
     },
-    "footer": "Marco Horizonte · Supermercados de proximidade",
-    "rodapeNota": "Protótipo: contactos, horários, serviços e localizações por confirmar.",
+    "footer": "Marco Horizonte, a fonte dos preços baixos",
+    "rodapeNota": "Informações públicas para este protótipo · horários sujeitos a confirmação.",
     "ui": {
       "menu": "Abrir menu",
       "fechar": "Fechar",
@@ -208,6 +217,14 @@
       "fullErro": "O navegador não suporta ecrã inteiro. O visualizador mantém-se aberto.",
       "mapZoomIn": "Aproximar mapa",
       "mapZoomOut": "Afastar mapa"
-    }
+    },
+    "rodapeLojas": "Encontre-nos perto de si",
+    "rodapeSlogan": "A fonte dos\npreços baixos."
+  },
+  "assinatura": {
+    "nome": "DevPlus",
+    "prefixo": "Site feito pela",
+    "url": "https://devplus.pt",
+    "logo": "assets/devplus.svg"
   }
 }

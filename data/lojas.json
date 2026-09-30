@@ -3,23 +3,86 @@
     "id": "1",
     "nome": "Lousada",
     "slug": "lousada",
-    "morada": "[A PREENCHER]",
+    "morada": "Av. Hans Isler 1, Lousada",
     "coordenadas": {
       "lat": null,
       "lng": null
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 539 430",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "1": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "13:30"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "20:30"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -27,29 +90,99 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Lousada.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Lousada.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Lousada%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Lousada%20Portugal"
   },
   {
     "id": "2",
     "nome": "Alpendurada",
     "slug": "alpendurada",
-    "morada": "[A PREENCHER]",
+    "morada": "Rua do Memorial, 4575-032 Alpendurada e Matos",
     "coordenadas": {
       "lat": null,
       "lng": null
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 611 625",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [
+          [
+            "09:30",
+            "12:30"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -57,29 +190,75 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Alpendurada.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Alpendurada.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Alpendurada%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Alpendurada%20Portugal"
   },
   {
     "id": "3",
-    "nome": "Rio Moinhos",
+    "nome": "Rio de Moinhos",
     "slug": "rio-moinhos",
-    "morada": "[A PREENCHER]",
+    "morada": "Avenida de Cans 399, Rio de Moinhos, Penafiel",
     "coordenadas": {
       "lat": null,
       "lng": null
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 610 715",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [
+          [
+            "09:00",
+            "13:00"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "20:00"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -87,7 +266,18 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Rio Moinhos.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Rio Moinhos.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Rio%20Moinhos%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca. Telefone encontrado nos resultados das Páginas Amarelas."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. O Google indica o n.º 399; um diretório indica o n.º 15. Morada a confirmar.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Rio%20Moinhos%20Portugal"
   },
   {
     "id": "4",
@@ -103,13 +293,48 @@
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [
+          [
+            "09:00",
+            "13:00"
+          ]
+        ],
+        "1": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "19:30"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -117,29 +342,70 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Rio Mau.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Rio Mau.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Rio%20Mau%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Rio%20Mau%20Portugal"
   },
   {
     "id": "5",
     "nome": "Mercearia da Cidade",
     "slug": "mercearia-da-cidade",
-    "morada": "[A PREENCHER]",
+    "morada": "Av. Dr. Francisco Sá Carneiro 116, Marco de Canaveses",
     "coordenadas": {
       "lat": null,
       "lng": null
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 531 231",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [],
+        "1": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "20:00"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -147,13 +413,29 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Mercearia da Cidade.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Mercearia da Cidade.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Mercearia%20da%20Cidade%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Município · estabelecimentos aderentes (2023)",
+        "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
+        "campos": "Morada da loja (registo de 2023)."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Mercearia%20da%20Cidade%20Portugal"
   },
   {
     "id": "6",
     "nome": "Sobretâmega",
     "slug": "sobretamega",
-    "morada": "[A PREENCHER]",
+    "morada": "Rua de Sobretâmega 316, Marco de Canaveses",
     "coordenadas": {
       "lat": null,
       "lng": null
@@ -163,13 +445,72 @@
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -177,29 +518,75 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Sobretâmega.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Sobretâmega.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Sobret%C3%A2mega%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Município · estabelecimentos aderentes (2023)",
+        "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
+        "campos": "Morada da loja (registo de 2023)."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. O Google indica o n.º 316; a listagem municipal de 2023 indica o n.º 302.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Sobret%C3%A2mega%20Portugal"
   },
   {
     "id": "7",
     "nome": "Boelhe",
     "slug": "boelhe",
-    "morada": "[A PREENCHER]",
+    "morada": "Rua do Calvário 112, Boelhe, Penafiel",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.13225,
+      "lng": -8.243
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 941 176",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
       "semana": {
-        "0": null,
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null
+        "0": [],
+        "1": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ]
       },
       "excecoes": {},
       "feriadosConfirmados": false
@@ -207,18 +594,139 @@
     "servicos": [],
     "descricao": "A sua loja Marco Horizonte em Boelhe.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Boelhe.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Boelhe%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Marco Horizonte · publicação oficial de Boelhe",
+        "url": "https://www.instagram.com/p/DFxj3NgMcZh/",
+        "campos": "Morada, telefone e coordenadas GPS (7 de fevereiro de 2025)."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Boelhe%20Portugal"
   },
   {
     "id": "8",
     "nome": "Livração",
     "slug": "livracao",
-    "morada": "[A PREENCHER]",
+    "morada": "Praceta da Livração 78, Santo Isidoro e Livração",
     "coordenadas": {
       "lat": null,
       "lng": null
     },
-    "telefone": "[A PREENCHER]",
+    "telefone": "255 536 135",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "19:30"
+          ]
+        ]
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Livração.",
+    "fotos": [],
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Livração.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Livra%C3%A7%C3%A3o%20horario%20telefone",
+        "campos": "Horário semanal e dados locais publicados; não confirmados pela marca. Telefone encontrado nos resultados das Páginas Amarelas."
+      },
+      {
+        "nome": "Município · estabelecimentos aderentes (2023)",
+        "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
+        "campos": "Morada da loja (registo de 2023)."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Livra%C3%A7%C3%A3o%20Portugal"
+  },
+  {
+    "id": "9",
+    "nome": "Vila Boa de Quires",
+    "slug": "vila-boa-de-quires",
+    "morada": "Rua de São Sebastião 103, Vila Boa de Quires e Maureles",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "255 536 242",
     "email": "[A PREENCHER]",
     "horario": {
       "fuso": "Europe/Lisbon",
@@ -235,8 +743,24 @@
       "feriadosConfirmados": false
     },
     "servicos": [],
-    "descricao": "A sua loja Marco Horizonte em Livração.",
+    "descricao": "A sua loja Marco Horizonte em Vila Boa de Quires.",
     "fotos": [],
-    "confirmada": false
+    "confirmada": false,
+    "servicosIntro": "Os serviços da loja de Vila Boa de Quires.",
+    "fontes": [
+      {
+        "nome": "Google · ficha pública e resultados locais",
+        "url": "https://www.google.com/search?q=Marco%20Horizonte%20Vila%20Boa%20de%20Quires%20horario%20telefone",
+        "campos": "Telefone nos resultados das Páginas Amarelas. Horário Google excluído por localização inconsistente."
+      },
+      {
+        "nome": "Município · estabelecimentos aderentes (2023)",
+        "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
+        "campos": "Morada da loja (registo de 2023)."
+      }
+    ],
+    "verificadoEm": "2026-09-30",
+    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. Horário por confirmar: a ficha Google encontrada apresenta uma localidade incompatível. Morada da listagem municipal; telefone associado à Rua São Sebastião nas Páginas Amarelas.",
+    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Vila%20Boa%20de%20Quires%20Portugal"
   }
 ]
