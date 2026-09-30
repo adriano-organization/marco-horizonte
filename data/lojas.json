@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "nome": "Lousada",
+    "slug": "lousada",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Lousada.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "2",
+    "nome": "Alpendurada",
+    "slug": "alpendurada",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Alpendurada.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "3",
+    "nome": "Rio Moinhos",
+    "slug": "rio-moinhos",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Rio Moinhos.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "4",
+    "nome": "Rio Mau",
+    "slug": "rio-mau",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Rio Mau.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "5",
+    "nome": "Mercearia da Cidade",
+    "slug": "mercearia-da-cidade",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Mercearia da Cidade.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "6",
+    "nome": "Sobretâmega",
+    "slug": "sobretamega",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Sobretâmega.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "7",
+    "nome": "Boelhe",
+    "slug": "boelhe",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Boelhe.",
+    "fotos": [],
+    "confirmada": false
+  },
+  {
+    "id": "8",
+    "nome": "Livração",
+    "slug": "livracao",
+    "morada": "[A PREENCHER]",
+    "coordenadas": {
+      "lat": null,
+      "lng": null
+    },
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]",
+    "horario": {
+      "fuso": "Europe/Lisbon",
+      "semana": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      },
+      "excecoes": {},
+      "feriadosConfirmados": false
+    },
+    "servicos": [],
+    "descricao": "A sua loja Marco Horizonte em Livração.",
+    "fotos": [],
+    "confirmada": false
+  }
+]

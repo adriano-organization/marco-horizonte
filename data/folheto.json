@@ -1,0 +1,12 @@
+{
+  "caminho": "data/folheto.pdf",
+  "inicio": null,
+  "fim": null,
+  "titulo": "O folheto da semana",
+  "exemplo": false,
+  "demo": {
+    "caminho": "data/folheto-exemplo.pdf",
+    "titulo": "Folheto de demonstração",
+    "exemplo": true
+  }
+}

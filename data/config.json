@@ -1,0 +1,213 @@
+{
+  "marca": {
+    "nome": "Marco Horizonte",
+    "assinatura": "SUPERMERCADOS",
+    "logo": null,
+    "provisoria": true,
+    "linhas": [
+      "marco",
+      "horizonte"
+    ]
+  },
+  "contactos": {
+    "telefone": "[A PREENCHER]",
+    "email": "[A PREENCHER]"
+  },
+  "redes": {
+    "instagram": "https://www.instagram.com/marcohorizonte.supermercados/"
+  },
+  "seo": {
+    "titulo": "Marco Horizonte · O seu supermercado de proximidade",
+    "descricao": "Conheça as oito lojas Marco Horizonte, encontre a sua loja e consulte o folheto digital.",
+    "siteUrl": null,
+    "imagem": null
+  },
+  "paleta": {
+    "primaria": "#183D32",
+    "secundaria": "#D5EB67",
+    "acento": "#D5EB67",
+    "neutro": "#E5E6DF",
+    "fundo": "#F7F8F2",
+    "texto": "#183D32",
+    "muted": "#58665E",
+    "branco": "#FFFFFF"
+  },
+  "mapa": {
+    "centro": [
+      41.18,
+      -8.16
+    ],
+    "zoom": 11
+  },
+  "servicosCatalogo": [
+    {
+      "id": "padaria",
+      "nome": "Padaria",
+      "icone": "bread"
+    },
+    {
+      "id": "cafe",
+      "nome": "Café",
+      "icone": "coffee"
+    },
+    {
+      "id": "talho",
+      "nome": "Talho",
+      "icone": "cut"
+    },
+    {
+      "id": "peixaria",
+      "nome": "Peixaria",
+      "icone": "fish"
+    },
+    {
+      "id": "charcutaria",
+      "nome": "Charcutaria",
+      "icone": "basket"
+    },
+    {
+      "id": "take-away",
+      "nome": "Take-away",
+      "icone": "bag"
+    }
+  ],
+  "textos": {
+    "prototipo": "Protótipo · identidade visual provisória",
+    "nav": [
+      {
+        "label": "O nosso horizonte",
+        "href": "#sobre"
+      },
+      {
+        "label": "As nossas lojas",
+        "href": "?pagina=lojas"
+      },
+      {
+        "label": "Folheto",
+        "href": "#folheto"
+      },
+      {
+        "label": "Contactos",
+        "href": "#contactos"
+      }
+    ],
+    "hero": {
+      "eyebrow": "PERTO DE SI. TODOS OS DIAS.",
+      "titulo": "O melhor do dia,",
+      "destaque": "aqui ao lado.",
+      "descricao": "À mesa, nas pequenas rotinas e na vida do bairro. Há sempre um Marco Horizonte perto de si.",
+      "cta": "Encontre a sua loja",
+      "secundario": "Conheça o nosso horizonte",
+      "imagem": "assets/legumes.jpg",
+      "alt": "Seleção de legumes frescos — fotografia ilustrativa",
+      "legenda": "Imagem ilustrativa",
+      "selo": "Da nossa vizinhança.\nPara a sua mesa."
+    },
+    "faixa": [
+      "8 lojas, um só horizonte",
+      "O seu supermercado de proximidade",
+      "Marco de Canaveses e região"
+    ],
+    "sobre": {
+      "etiqueta": "01 / O NOSSO HORIZONTE",
+      "titulo": "Fazemos parte\ndo seu dia.",
+      "descricao": "A lista de compras muda. A vontade de estar perto mantém-se. Conheça as oito lojas Marco Horizonte e encontre o seu ponto de encontro para as compras do dia a dia.",
+      "destaque": "8",
+      "legenda": "lojas à sua espera"
+    },
+    "folheto": {
+      "etiqueta": "02 / FOLHEIE AS NOVIDADES",
+      "titulo": "Boas escolhas.\nPágina a página.",
+      "descricao": "Consulte o folheto digital e prepare a próxima visita à sua loja.",
+      "indisponivel": "Folheto indisponível",
+      "nota": "O próximo folheto estará aqui. Volte em breve.",
+      "botao": "Veja o folheto da semana",
+      "demo": "Explorar folheto de exemplo",
+      "capa": "Um horizonte\nde boas escolhas.",
+      "exemplo": "DEMONSTRAÇÃO · SEM PROMOÇÕES REAIS"
+    },
+    "lojas": {
+      "etiqueta": "03 / SEMPRE POR PERTO",
+      "titulo": "Qual é a sua\nMarco Horizonte?",
+      "descricao": "Oito lojas. A mesma proximidade. Encontre a sua.",
+      "todas": "Explorar todas as lojas",
+      "pesquisa": "Pesquisar por nome da loja",
+      "filtros": "Filtrar por serviço",
+      "todos": "Todos os serviços",
+      "resultado": "lojas encontradas",
+      "vazio": "Não encontrámos lojas com estes critérios.",
+      "limpar": "Limpar filtros",
+      "mapaNota": "As localizações serão apresentadas assim que as coordenadas forem confirmadas.",
+      "mapaErro": "Não foi possível carregar o mapa. A lista de lojas continua disponível.",
+      "ver": "Conhecer a loja",
+      "semFoto": "Fotografia da loja por adicionar",
+      "dados": "Informações em atualização",
+      "servicos": "Serviços a confirmar",
+      "morada": "Morada",
+      "horario": "Horário",
+      "telefone": "Telefone",
+      "email": "E-mail",
+      "galeria": "A nossa loja",
+      "dias": [
+        "Domingo",
+        "Segunda-feira",
+        "Terça-feira",
+        "Quarta-feira",
+        "Quinta-feira",
+        "Sexta-feira",
+        "Sábado"
+      ],
+      "aberto": "Aberto agora",
+      "fechado": "Fechado",
+      "desconhecido": "Horário por confirmar",
+      "excecoes": "Exceções e feriados",
+      "feriados": "Horários de feriados por confirmar",
+      "chegar": "Como chegar",
+      "waze": "Abrir no Waze",
+      "regresso": "Todas as lojas",
+      "naoEncontrada": "Loja não encontrada"
+    },
+    "servicos": {
+      "etiqueta": "04 / À SUA MEDIDA",
+      "titulo": "O que precisa,\nmais perto.",
+      "descricao": "Os serviços disponíveis em cada loja serão apresentados após confirmação.",
+      "pendente": "Disponibilidade a confirmar"
+    },
+    "contactos": {
+      "etiqueta": "VAMOS CONVERSAR?",
+      "titulo": "Estamos por perto.",
+      "descricao": "Encontre os contactos da sua loja ou acompanhe as novidades no Instagram.",
+      "instagram": "Siga o nosso dia a dia",
+      "lojas": "Encontrar uma loja"
+    },
+    "footer": "Marco Horizonte · Supermercados de proximidade",
+    "rodapeNota": "Protótipo: contactos, horários, serviços e localizações por confirmar.",
+    "ui": {
+      "menu": "Abrir menu",
+      "fechar": "Fechar",
+      "skip": "Saltar para o conteúdo",
+      "inicio": "Início",
+      "erro": "Não foi possível carregar o conteúdo. Tente atualizar a página.",
+      "carregar": "A carregar…",
+      "anterior": "Página anterior",
+      "seguinte": "Página seguinte",
+      "zoomIn": "Aumentar zoom",
+      "zoomOut": "Diminuir zoom",
+      "full": "Ecrã inteiro",
+      "download": "Descarregar PDF",
+      "pdfErro": "Não foi possível abrir o folheto. Pode tentar descarregar o PDF.",
+      "pdfAjuda": "Use as setas do teclado ou deslize para folhear.",
+      "pdfAcessivel": "Abrir PDF original",
+      "pagina": "Página",
+      "de": "de",
+      "validade": "Válido de",
+      "ate": "a",
+      "fechadoDia": "Encerrado",
+      "placeholder": "[A PREENCHER]",
+      "demo": "Exemplo sem validade comercial",
+      "fullErro": "O navegador não suporta ecrã inteiro. O visualizador mantém-se aberto.",
+      "mapZoomIn": "Aproximar mapa",
+      "mapZoomOut": "Afastar mapa"
+    }
+  }
+}
