@@ -5,8 +5,8 @@
   "titulo": "O folheto da semana",
   "exemplo": false,
   "demo": {
-    "caminho": "data/folheto-exemplo.pdf",
-    "titulo": "Folheto de demonstração",
+    "caminho": "data/folheto-fornecido.pdf",
+    "titulo": "Folheto de exemplo · Marco Horizonte",
     "exemplo": true
   }
 }

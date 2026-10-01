@@ -5,7 +5,7 @@ const {openingStatus,leafletActive,coordinates}=await import('data:text/javascri
 const stores=JSON.parse(fs.readFileSync(new URL('../data/lojas.json',import.meta.url)));
 for(const name of ['config','folheto'])JSON.parse(fs.readFileSync(new URL(`../data/${name}.json`,import.meta.url)));
 assert.equal(stores.length,9);assert.equal(new Set(stores.map(s=>s.slug)).size,9);
-for(const s of stores){assert.ok(s.fontes.length);assert.deepEqual(s.servicos,[]);assert.equal(Object.keys(s.horario.semana).length,7);}
+for(const s of stores){assert.ok(s.fontes.length);assert.equal(coordinates(s),true);assert.ok(s.mapsUrl.startsWith("https://www.google.com/maps/"));assert.deepEqual(s.servicos,[]);assert.equal(Object.keys(s.horario.semana).length,7);}
 assert.equal(coordinates(stores.find(s=>s.slug==='boelhe')),true);
 assert.equal(openingStatus(stores.find(s=>s.slug==='vila-boa-de-quires')),'desconhecido');
 const fixture={horario:{fuso:'Europe/Lisbon',semana:{0:[],1:[['09:00','13:00'],['14:00','19:00']],2:[],3:[],4:[],5:[['22:00','02:00']],6:[]},excecoes:{'2026-10-05':[]}}};

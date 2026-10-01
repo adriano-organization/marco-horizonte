@@ -3,10 +3,10 @@
     "id": "1",
     "nome": "Lousada",
     "slug": "lousada",
-    "morada": "Av. Hans Isler 1, Lousada",
+    "morada": "Av. Hans Isler 1 4620, Lousada",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.2685711,
+      "lng": -8.2877785
     },
     "telefone": "255 539 430",
     "email": "[A PREENCHER]",
@@ -97,20 +97,27 @@
         "nome": "Google · ficha pública e resultados locais",
         "url": "https://www.google.com/search?q=Marco%20Horizonte%20Lousada%20horario%20telefone",
         "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte/@41.2685711,-8.2877785,17z/data=!3m1!4b1!4m6!3m5!1s0xd24939d670f9195:0x1bde6d704d7ca3e6!8m2!3d41.2685711!4d-8.2877785!16s%2Fg%2F11h26vtrkh?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Lousada%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte/@41.2685711,-8.2877785,17z/data=!3m1!4b1!4m6!3m5!1s0xd24939d670f9195:0x1bde6d704d7ca3e6!8m2!3d41.2685711!4d-8.2877785!16s%2Fg%2F11h26vtrkh?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte/@41.2685711,-8.2877785,17z/data=!3m1!4b1!4m6!3m5!1s0xd24939d670f9195:0x1bde6d704d7ca3e6!8m2!3d41.2685711!4d-8.2877785!16s%2Fg%2F11h26vtrkh?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "2",
     "nome": "Alpendurada",
     "slug": "alpendurada",
-    "morada": "Rua do Memorial, 4575-032 Alpendurada e Matos",
+    "morada": "R. do Memorial, 4575-032 Alpendurada e Matos",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.090483,
+      "lng": -8.2464844
     },
     "telefone": "255 611 625",
     "email": "[A PREENCHER]",
@@ -197,20 +204,27 @@
         "nome": "Google · ficha pública e resultados locais",
         "url": "https://www.google.com/search?q=Marco%20Horizonte%20Alpendurada%20horario%20telefone",
         "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte+Supermercados+Lda./@41.090483,-8.2464844,17z/data=!3m1!4b1!4m6!3m5!1s0xd249bbed05a3f57:0xe0f83f981d4f07ca!8m2!3d41.090483!4d-8.2464844!16s%2Fg%2F11f57p87kx?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Alpendurada%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte+Supermercados+Lda./@41.090483,-8.2464844,17z/data=!3m1!4b1!4m6!3m5!1s0xd249bbed05a3f57:0xe0f83f981d4f07ca!8m2!3d41.090483!4d-8.2464844!16s%2Fg%2F11f57p87kx?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte+Supermercados+Lda./@41.090483,-8.2464844,17z/data=!3m1!4b1!4m6!3m5!1s0xd249bbed05a3f57:0xe0f83f981d4f07ca!8m2!3d41.090483!4d-8.2464844!16s%2Fg%2F11f57p87kx?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "3",
     "nome": "Rio de Moinhos",
     "slug": "rio-moinhos",
-    "morada": "Avenida de Cans 399, Rio de Moinhos, Penafiel",
+    "morada": "Av. Cans 399",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.1094919,
+      "lng": -8.2653569
     },
     "telefone": "255 610 715",
     "email": "[A PREENCHER]",
@@ -273,11 +287,18 @@
         "nome": "Google · ficha pública e resultados locais",
         "url": "https://www.google.com/search?q=Marco%20Horizonte%20Rio%20Moinhos%20horario%20telefone",
         "campos": "Horário semanal e dados locais publicados; não confirmados pela marca. Telefone encontrado nos resultados das Páginas Amarelas."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte/@41.1094919,-8.2653569,17z/data=!3m1!4b1!4m6!3m5!1s0xd249aff5488aaf3:0xa0edcf4ad0aec16c!8m2!3d41.1094919!4d-8.2653569!16s%2Fg%2F11dxb4l9yn?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. O Google indica o n.º 399; um diretório indica o n.º 15. Morada a confirmar.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Rio%20Moinhos%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte/@41.1094919,-8.2653569,17z/data=!3m1!4b1!4m6!3m5!1s0xd249aff5488aaf3:0xa0edcf4ad0aec16c!8m2!3d41.1094919!4d-8.2653569!16s%2Fg%2F11dxb4l9yn?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte/@41.1094919,-8.2653569,17z/data=!3m1!4b1!4m6!3m5!1s0xd249aff5488aaf3:0xa0edcf4ad0aec16c!8m2!3d41.1094919!4d-8.2653569!16s%2Fg%2F11dxb4l9yn?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "4",
@@ -285,8 +306,8 @@
     "slug": "rio-mau",
     "morada": "[A PREENCHER]",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.051987,
+      "lng": -8.365503
     },
     "telefone": "[A PREENCHER]",
     "email": "[A PREENCHER]",
@@ -349,20 +370,27 @@
         "nome": "Google · ficha pública e resultados locais",
         "url": "https://www.google.com/search?q=Marco%20Horizonte%20Rio%20Mau%20horario%20telefone",
         "campos": "Horário semanal e dados locais publicados; não confirmados pela marca."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/search/41.051987,+-8.365503",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Rio%20Mau%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados. O link fornecido indica coordenadas exatas; a morada postal ainda está por preencher.",
+    "mapsPesquisa": "https://www.google.com/maps/search/41.051987,+-8.365503",
+    "mapsUrl": "https://www.google.com/maps/search/41.051987,+-8.365503",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "5",
     "nome": "Mercearia da Cidade",
     "slug": "mercearia-da-cidade",
-    "morada": "Av. Dr. Francisco Sá Carneiro 116, Marco de Canaveses",
+    "morada": "Av. Dr. Francisco Sá Carneiro 116, 4630-286 Marco de Canaveses",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.1854224,
+      "lng": -8.1487247
     },
     "telefone": "255 531 231",
     "email": "[A PREENCHER]",
@@ -425,20 +453,27 @@
         "nome": "Município · estabelecimentos aderentes (2023)",
         "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
         "campos": "Morada da loja (registo de 2023)."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Mercearia+Da+Cidade,+Lda/@41.1854224,-8.1487247,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497cf1e47ed65:0x6ca7db37429f04ef!8m2!3d41.1854224!4d-8.1487247!16s%2Fg%2F11bbrmnp06?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Mercearia%20da%20Cidade%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Mercearia+Da+Cidade,+Lda/@41.1854224,-8.1487247,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497cf1e47ed65:0x6ca7db37429f04ef!8m2!3d41.1854224!4d-8.1487247!16s%2Fg%2F11bbrmnp06?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Mercearia+Da+Cidade,+Lda/@41.1854224,-8.1487247,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497cf1e47ed65:0x6ca7db37429f04ef!8m2!3d41.1854224!4d-8.1487247!16s%2Fg%2F11bbrmnp06?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "6",
     "nome": "Sobretâmega",
     "slug": "sobretamega",
-    "morada": "Rua de Sobretâmega 316, Marco de Canaveses",
+    "morada": "R. de Sobretâmega 316, 4635",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.2019328,
+      "lng": -8.1630577
     },
     "telefone": "[A PREENCHER]",
     "email": "[A PREENCHER]",
@@ -530,20 +565,27 @@
         "nome": "Município · estabelecimentos aderentes (2023)",
         "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
         "campos": "Morada da loja (registo de 2023)."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte/@41.2019328,-8.1630577,17z/data=!3m1!4b1!4m6!3m5!1s0xd249700125733c5:0x4cb95f25ed521529!8m2!3d41.2019328!4d-8.1630577!16s%2Fg%2F11yvmsfc4q?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. O Google indica o n.º 316; a listagem municipal de 2023 indica o n.º 302.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Sobret%C3%A2mega%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte/@41.2019328,-8.1630577,17z/data=!3m1!4b1!4m6!3m5!1s0xd249700125733c5:0x4cb95f25ed521529!8m2!3d41.2019328!4d-8.1630577!16s%2Fg%2F11yvmsfc4q?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte/@41.2019328,-8.1630577,17z/data=!3m1!4b1!4m6!3m5!1s0xd249700125733c5:0x4cb95f25ed521529!8m2!3d41.2019328!4d-8.1630577!16s%2Fg%2F11yvmsfc4q?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "7",
     "nome": "Boelhe",
     "slug": "boelhe",
-    "morada": "Rua do Calvário 112, Boelhe, Penafiel",
+    "morada": "N312 4, Boelhe",
     "coordenadas": {
-      "lat": 41.13225,
-      "lng": -8.243
+      "lat": 41.1322053,
+      "lng": -8.2430958
     },
     "telefone": "255 941 176",
     "email": "[A PREENCHER]",
@@ -606,20 +648,27 @@
         "nome": "Marco Horizonte · publicação oficial de Boelhe",
         "url": "https://www.instagram.com/p/DFxj3NgMcZh/",
         "campos": "Morada, telefone e coordenadas GPS (7 de fevereiro de 2025)."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Supermarket+Horizonte,+Boelhe/@41.1322053,-8.2430958,17z/data=!3m1!4b1!4m6!3m5!1s0xd249a134b79cd3f:0x781ccc20630166c4!8m2!3d41.1322053!4d-8.2430958!16s%2Fg%2F11c1xh5fxs?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Boelhe%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Supermarket+Horizonte,+Boelhe/@41.1322053,-8.2430958,17z/data=!3m1!4b1!4m6!3m5!1s0xd249a134b79cd3f:0x781ccc20630166c4!8m2!3d41.1322053!4d-8.2430958!16s%2Fg%2F11c1xh5fxs?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Supermarket+Horizonte,+Boelhe/@41.1322053,-8.2430958,17z/data=!3m1!4b1!4m6!3m5!1s0xd249a134b79cd3f:0x781ccc20630166c4!8m2!3d41.1322053!4d-8.2430958!16s%2Fg%2F11c1xh5fxs?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "8",
     "nome": "Livração",
     "slug": "livracao",
-    "morada": "Praceta da Livração 78, Santo Isidoro e Livração",
+    "morada": "N312",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.2209633,
+      "lng": -8.1448285
     },
     "telefone": "255 536 135",
     "email": "[A PREENCHER]",
@@ -711,20 +760,27 @@
         "nome": "Município · estabelecimentos aderentes (2023)",
         "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
         "campos": "Morada da loja (registo de 2023)."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte-+Livra%C3%A7%C3%A3o/@41.2209633,-8.1448285,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497d5684d05ff:0x4878a9c5fe122730!8m2!3d41.2209633!4d-8.1448285!16s%2Fg%2F11h3lf1zy1?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Livra%C3%A7%C3%A3o%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte-+Livra%C3%A7%C3%A3o/@41.2209633,-8.1448285,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497d5684d05ff:0x4878a9c5fe122730!8m2!3d41.2209633!4d-8.1448285!16s%2Fg%2F11h3lf1zy1?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte-+Livra%C3%A7%C3%A3o/@41.2209633,-8.1448285,17z/data=!3m1!4b1!4m6!3m5!1s0xd2497d5684d05ff:0x4878a9c5fe122730!8m2!3d41.2209633!4d-8.1448285!16s%2Fg%2F11h3lf1zy1?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   },
   {
     "id": "9",
     "nome": "Vila Boa de Quires",
     "slug": "vila-boa-de-quires",
-    "morada": "Rua de São Sebastião 103, Vila Boa de Quires e Maureles",
+    "morada": "Largo de São Sebastião, 4480-706 Vila do Conde",
     "coordenadas": {
-      "lat": null,
-      "lng": null
+      "lat": 41.1997414,
+      "lng": -8.1975734
     },
     "telefone": "255 536 242",
     "email": "[A PREENCHER]",
@@ -757,10 +813,17 @@
         "nome": "Município · estabelecimentos aderentes (2023)",
         "url": "https://marcoinvest.pt/wp-content/uploads/2023/10/Marcoense-Como-Nos-2023_Estabelecimentos-Aderentes-1.pdf",
         "campos": "Morada da loja (registo de 2023)."
+      },
+      {
+        "nome": "Google Maps · localização indicada pela marca",
+        "url": "https://www.google.com/maps/place/Marco+Horizonte/@41.1997414,-8.1975734,17z/data=!3m1!4b1!4m6!3m5!1s0xd2496e870d59fd9:0x92a0efafeaf6ee99!8m2!3d41.1997414!4d-8.1975734!16s%2Fg%2F11c6cpkbty?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+        "campos": "Pin e morada fornecidos pelo utilizador em 1 de outubro de 2026."
       }
     ],
-    "verificadoEm": "2026-09-30",
-    "notaDados": "Dados consultados em fontes públicas. Confirme o horário com a loja, sobretudo em feriados. Horário por confirmar: a ficha Google encontrada apresenta uma localidade incompatível. Morada da listagem municipal; telefone associado à Rua São Sebastião nas Páginas Amarelas.",
-    "mapsPesquisa": "https://www.google.com/maps/search/?api=1&query=Marco%20Horizonte%20Vila%20Boa%20de%20Quires%20Portugal"
+    "verificadoEm": "2026-10-01",
+    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados. O texto da morada Google menciona Vila do Conde, mas o pin fornecido situa-se na região de Marco de Canaveses. As direções usam o pin, não a morada escrita.",
+    "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte/@41.1997414,-8.1975734,17z/data=!3m1!4b1!4m6!3m5!1s0xd2496e870d59fd9:0x92a0efafeaf6ee99!8m2!3d41.1997414!4d-8.1975734!16s%2Fg%2F11c6cpkbty?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte/@41.1997414,-8.1975734,17z/data=!3m1!4b1!4m6!3m5!1s0xd2496e870d59fd9:0x92a0efafeaf6ee99!8m2!3d41.1997414!4d-8.1975734!16s%2Fg%2F11c6cpkbty?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
   }
 ]

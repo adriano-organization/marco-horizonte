@@ -141,7 +141,7 @@
       "resultado": "lojas encontradas",
       "vazio": "Não encontrámos lojas com estes critérios.",
       "limpar": "Limpar filtros",
-      "mapaNota": "Pontos com coordenadas identificadas em fontes públicas. Nas restantes lojas, consulte a morada ou abra a pesquisa no Google Maps.",
+      "mapaNota": "Selecione um pin para conhecer a loja ou abrir as direções no Google Maps.",
       "mapaErro": "Não foi possível carregar o mapa. A lista de lojas continua disponível.",
       "ver": "Conhecer a loja",
       "semFoto": "Fotografia da loja por adicionar",
@@ -174,7 +174,8 @@
       "fontes": "Fontes e confirmação",
       "pesquisarMapa": "Localizar no Google Maps",
       "coordenadasPendentes": "Coordenadas da loja por confirmar.",
-      "resultadoSingular": "loja encontrada"
+      "resultadoSingular": "loja encontrada",
+      "mapaTitulo": "Nove lojas. Encontre o seu caminho."
     },
     "servicos": {
       "etiqueta": "NESTA LOJA",
@@ -219,12 +220,92 @@
       "mapZoomOut": "Afastar mapa"
     },
     "rodapeLojas": "Encontre-nos perto de si",
-    "rodapeSlogan": "A fonte dos\npreços baixos."
+    "rodapeSlogan": "A fonte dos\npreços baixos.",
+    "proximidade": {
+      "etiqueta": "AINDA MAIS PERTO",
+      "titulo": "Qual é a loja mais próxima de si?",
+      "descricao": "Indique uma localização em Portugal e escolha o resultado correspondente.",
+      "label": "Localidade, morada ou código postal",
+      "placeholder": "Ex.: Marco de Canaveses ou 4630-286",
+      "procurar": "Encontrar localização",
+      "limpar": "Limpar localização",
+      "privacidade": "Ao pesquisar, o texto é enviado ao serviço de localização",
+      "aProcurar": "A procurar a localização…",
+      "escolher": "Escolha a localização pretendida:",
+      "semResultados": "Não encontrámos essa localização. Experimente a localidade ou uma morada mais completa.",
+      "selecionada": "Localização selecionada:",
+      "erro": "Não foi possível procurar agora. Tente novamente dentro de instantes.",
+      "maisProxima": "A loja mais próxima nos resultados",
+      "distancia": "km em linha reta",
+      "nota": "Distância aproximada ao ponto selecionado. O percurso de carro pode ser diferente.",
+      "origem": "Localização pesquisada"
+    }
   },
   "assinatura": {
     "nome": "DevPlus",
     "prefixo": "Site feito pela",
     "url": "https://devplus.pt",
     "logo": "assets/devplus.svg"
+  },
+  "galeriaHorizonte": {
+    "tipo": "galeria de fotografias",
+    "titulo": "O nosso horizonte em imagens",
+    "anterior": "Fotografia anterior",
+    "seguinte": "Fotografia seguinte",
+    "pausar": "Pausar apresentação",
+    "retomar": "Retomar apresentação",
+    "intervalo": 6000,
+    "fotos": [
+      {
+        "src": "assets/interior-loja.png",
+        "alt": "Corredor de uma loja Marco Horizonte",
+        "legenda": "Perto de si, todos os dias.",
+        "recorte": true
+      },
+      {
+        "src": "assets/fruta-loja.png",
+        "alt": "Banca de fruta e legumes numa loja Marco Horizonte",
+        "legenda": "Cor e frescura à sua espera.",
+        "recorte": true
+      },
+      {
+        "src": "assets/garrafeira-loja.png",
+        "alt": "Exposição de bebidas numa loja Marco Horizonte",
+        "legenda": "Escolhas para partilhar à mesa.",
+        "recorte": true
+      }
+    ]
+  },
+  "painel": {
+    "voltar": "Ver site",
+    "etiqueta": "GESTÃO DO FOLHETO",
+    "titulo": "O próximo folheto começa aqui.",
+    "descricao": "Escolha o PDF, defina a validade e veja o resultado antes de guardar.",
+    "aviso": "Protótipo local, sem login. O PDF fica guardado apenas neste navegador e neste endereço; não é publicado para outros visitantes.",
+    "pdf": "Ficheiro PDF",
+    "limite": "Até 30 MB e 40 páginas. PDFs sem palavra-passe.",
+    "nome": "Título do folheto",
+    "inicio": "Primeiro dia de validade",
+    "fim": "Último dia de validade",
+    "guardar": "Guardar neste navegador",
+    "preview": "Pré-visualizar",
+    "repor": "Repor folheto de exemplo",
+    "nomeInicial": "O folheto da semana",
+    "semPDF": "Ainda não selecionou um PDF. O site utiliza o exemplo fornecido.",
+    "tamanhoErro": "O PDF excede o limite de 30 MB.",
+    "pdfErro": "Não foi possível ler este PDF. Escolha um PDF válido e sem palavra-passe.",
+    "paginasErro": "O PDF deve ter, no máximo, 40 páginas.",
+    "paginas": "páginas",
+    "validar": "A validar o PDF…",
+    "pronto": "PDF pronto. Defina as datas e guarde.",
+    "escolher": "Escolha primeiro um PDF.",
+    "nomeErro": "Indique um título.",
+    "datasErro": "Indique datas válidas; o fim não pode ser anterior ao início.",
+    "sucesso": "Folheto guardado neste navegador. Abra o site para ver a alteração; só estará disponível nas datas definidas.",
+    "guardarErro": "Não foi possível guardar. Verifique o espaço disponível no navegador.",
+    "reposto": "Exemplo reposto. O PDF local foi removido."
+  },
+  "geocodificacao": {
+    "endpoint": "https://photon.komoot.io/api/"
   }
 }

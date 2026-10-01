@@ -16,7 +16,7 @@ Logo e fotografias fornecidos pela marca integrados. Azul #1C3A7A e laranja #D36
 
 Contrastes sobre branco: azul 10,85:1; laranja escuro 5,97:1; texto 13,82:1; secundário 6,26:1. Estes pares passam WCAG AA para texto normal. O laranja original fica reservado a detalhes gráficos. Não é uma auditoria WCAG integral.
 
-Slogan: «Marco Horizonte, a fonte dos preços baixos». Nove lojas, incluindo Vila Boa de Quires. Serviços configurados por loja, sem atribuições inventadas. Dados públicos e fontes em `lojas.json`; horários de feriados, serviços e e-mails ainda precisam de confirmação. Só Boelhe dispõe de coordenadas verificadas. Ver README para limitações dos dados.
+Slogan: «Marco Horizonte, a fonte dos preços baixos». Nove lojas, incluindo Vila Boa de Quires. Serviços configurados por loja, sem atribuições inventadas. Dados públicos e fontes em `lojas.json`; horários de feriados, serviços e e-mails ainda precisam de confirmação. Atualização de 01/10: as nove lojas dispõem de coordenadas extraídas dos links Google Maps fornecidos. Ver README para limitações dos dados.
 
 ## Sitemap
 
