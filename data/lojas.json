@@ -777,7 +777,7 @@
     "id": "9",
     "nome": "Vila Boa de Quires",
     "slug": "vila-boa-de-quires",
-    "morada": "Largo de São Sebastião, 4480-706 Vila do Conde",
+    "morada": "Vila Boa de Quires, Marco de Canaveses",
     "coordenadas": {
       "lat": 41.1997414,
       "lng": -8.1975734
@@ -821,9 +821,10 @@
       }
     ],
     "verificadoEm": "2026-10-01",
-    "notaDados": "Localização baseada no link Google Maps indicado pela marca. Horários públicos sujeitos a confirmação, sobretudo em feriados. O texto da morada Google menciona Vila do Conde, mas o pin fornecido situa-se na região de Marco de Canaveses. As direções usam o pin, não a morada escrita.",
+    "notaDados": "O ponto no mapa foi fornecido pela marca. A anterior morada postal indicava Vila do Conde, em desacordo com este ponto, e foi retirada da apresentação. Aguarda confirmação da rua e do código postal. Horário semanal por confirmar.",
     "mapsPesquisa": "https://www.google.com/maps/place/Marco+Horizonte/@41.1997414,-8.1975734,17z/data=!3m1!4b1!4m6!3m5!1s0xd2496e870d59fd9:0x92a0efafeaf6ee99!8m2!3d41.1997414!4d-8.1975734!16s%2Fg%2F11c6cpkbty?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
     "mapsUrl": "https://www.google.com/maps/place/Marco+Horizonte/@41.1997414,-8.1975734,17z/data=!3m1!4b1!4m6!3m5!1s0xd2496e870d59fd9:0x92a0efafeaf6ee99!8m2!3d41.1997414!4d-8.1975734!16s%2Fg%2F11c6cpkbty?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
-    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador"
+    "coordenadasFonte": "Pin do Google Maps indicado pelo utilizador",
+    "moradaPendente": "Morada postal por confirmar. As direções usam o ponto da loja fornecido pela marca."
   }
 ]

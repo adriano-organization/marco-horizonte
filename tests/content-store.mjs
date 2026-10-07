@@ -1,0 +1,31 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+const storage=new Map();
+globalThis.localStorage={getItem:key=>storage.get(key)??null,setItem:(key,value)=>storage.set(key,value),removeItem:key=>storage.delete(key)};
+const source=fs.readFileSync(new URL('../js/content-store.js',import.meta.url),'utf8');
+const {CONTENT_KEY,readContent,saveStore,applyStoreOverrides,removeStoreOverride,resetContent,getContentSummary}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
+const stores=JSON.parse(fs.readFileSync(new URL('../data/lojas.json',import.meta.url)));
+const original=JSON.stringify(stores);
+assert.deepEqual(applyStoreOverrides(stores),stores);
+const changed={...stores[0],morada:'Rua de teste 42',telefone:'255 123 456',slug:'outro-slug',horario:{...stores[0].horario,semana:{...stores[0].horario.semana,0:[]}}};
+saveStore(changed);
+assert.equal(applyStoreOverrides(stores)[0].morada,'Rua de teste 42');
+assert.equal(applyStoreOverrides(stores)[0].slug,stores[0].slug);
+assert.equal(applyStoreOverrides(stores)[1],stores[1]);
+assert.equal(JSON.stringify(stores),original);
+assert.equal(getContentSummary().editedStores,1);
+assert.ok(getContentSummary().updatedAt);
+removeStoreOverride(changed.id);
+assert.equal(getContentSummary().editedStores,0);
+assert.deepEqual(applyStoreOverrides(stores),stores);
+for(const invalid of ['{bad-json',JSON.stringify({version:1,stores:[]}),JSON.stringify({version:1,stores:{1:{id:'1',nome:'Corrompida'}},updatedAt:'ontem'})]){
+ storage.set(CONTENT_KEY,invalid);assert.deepEqual(applyStoreOverrides(stores),stores);assert.equal(readContent().updatedAt,null);
+}
+storage.set(CONTENT_KEY,JSON.stringify({version:1,stores:{1:{...stores[0],coordenadas:{lat:NaN,lng:0}}}}));
+assert.equal(getContentSummary().editedStores,0);
+assert.throws(()=>saveStore({...changed,horario:{semana:{0:[['25:00','26:00']]}}}));
+saveStore(stores[8]);assert.equal(getContentSummary().editedStores,1);
+resetContent();assert.deepEqual(readContent(),{version:1,stores:{},updatedAt:null});
+globalThis.localStorage.setItem=()=>{throw new Error('quota');};
+assert.throws(()=>saveStore(changed),/quota/);
+console.log('Painel: sobreposição local, persistência, identidade, reposição, dados corrompidos e quota: PASS');

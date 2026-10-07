@@ -2,7 +2,7 @@
   "marca": {
     "nome": "Marco Horizonte",
     "assinatura": "SUPERMERCADOS",
-    "logo": "assets/logo-marco-horizonte.png",
+    "logo": "assets/logo-marco-horizonte-466.png",
     "provisoria": false,
     "linhas": [
       "marco",
@@ -24,13 +24,13 @@
     "imagem": null
   },
   "paleta": {
-    "primaria": "#1C3A7A",
+    "primaria": "#173C72",
     "secundaria": "#D3672E",
     "acento": "#D3672E",
-    "neutro": "#DFE5EF",
-    "fundo": "#FFFFFF",
+    "neutro": "#E1E6ED",
+    "fundo": "#FAF8F4",
     "texto": "#142B59",
-    "muted": "#52617B",
+    "muted": "#627087",
     "branco": "#FFFFFF",
     "laranjaTexto": "#AB4212"
   },
@@ -81,7 +81,7 @@
         "href": "#sobre"
       },
       {
-        "label": "As nossas lojas",
+        "label": "Conheça a sua loja",
         "href": "?pagina=lojas"
       },
       {
@@ -135,12 +135,7 @@
       "titulo": "Qual é a sua\nMarco Horizonte?",
       "descricao": "Nove lojas. A mesma proximidade. Encontre a sua.",
       "todas": "Explorar todas as lojas",
-      "pesquisa": "Pesquisar por nome da loja",
-      "filtros": "Filtrar por serviço",
-      "todos": "Todos os serviços",
       "resultado": "lojas encontradas",
-      "vazio": "Não encontrámos lojas com estes critérios.",
-      "limpar": "Limpar filtros",
       "mapaNota": "Selecione um pin para conhecer a loja ou abrir as direções no Google Maps.",
       "mapaErro": "Não foi possível carregar o mapa. A lista de lojas continua disponível.",
       "ver": "Conhecer a loja",
@@ -223,22 +218,32 @@
     "rodapeSlogan": "A fonte dos\npreços baixos.",
     "proximidade": {
       "etiqueta": "AINDA MAIS PERTO",
-      "titulo": "Qual é a loja mais próxima de si?",
-      "descricao": "Indique uma localização em Portugal e escolha o resultado correspondente.",
-      "label": "Localidade, morada ou código postal",
-      "placeholder": "Ex.: Marco de Canaveses ou 4630-286",
-      "procurar": "Encontrar localização",
-      "limpar": "Limpar localização",
-      "privacidade": "Ao pesquisar, o texto é enviado ao serviço de localização",
+      "titulo": "Qual é a sua morada?",
+      "descricao": "Escreva a rua e a localidade, ou o código postal.",
+      "label": "A sua morada",
+      "placeholder": "Rua, número e localidade ou código postal",
+      "procurar": "Pesquisar",
+      "limpar": "Apagar morada",
+      "privacidade": "Pesquisa de moradas por",
       "aProcurar": "A procurar a localização…",
       "escolher": "Escolha a localização pretendida:",
-      "semResultados": "Não encontrámos essa localização. Experimente a localidade ou uma morada mais completa.",
+      "semResultados": "Não encontrámos essa morada. Acrescente a localidade ou experimente o código postal.",
       "selecionada": "Localização selecionada:",
       "erro": "Não foi possível procurar agora. Tente novamente dentro de instantes.",
-      "maisProxima": "A loja mais próxima nos resultados",
+      "maisProxima": "A sua loja mais próxima",
       "distancia": "km em linha reta",
       "nota": "Distância aproximada ao ponto selecionado. O percurso de carro pode ser diferente.",
-      "origem": "Localização pesquisada"
+      "origem": "Localização pesquisada",
+      "ajuda": "Escolha a sua morada nas sugestões. Pode acrescentar a localidade para distinguir ruas com o mesmo nome.",
+      "minimo": "Escreva pelo menos 3 caracteres.",
+      "sugestoes": "Sugestões de morada",
+      "geoAtual": "A minha localização",
+      "geoProcurar": "A obter a localização do dispositivo…",
+      "geoIndisponivel": "Este navegador não suporta localização. Pesquise uma morada no campo acima.",
+      "geoSeguro": "A localização do dispositivo requer HTTPS ou localhost. Pode pesquisar uma morada.",
+      "geoRecusada": "O acesso à localização foi recusado. Pode autorizá-lo no navegador ou escrever uma morada.",
+      "geoTempo": "Não foi possível obter a localização a tempo. Tente novamente ou escreva uma morada.",
+      "geoErro": "A localização não está disponível. Tente novamente ou escreva uma morada."
     }
   },
   "assinatura": {
@@ -257,22 +262,34 @@
     "intervalo": 6000,
     "fotos": [
       {
-        "src": "assets/interior-loja.png",
-        "alt": "Corredor de uma loja Marco Horizonte",
+        "src": "assets/interior-retocada-v3-1024.jpg",
+        "alt": "Tratamento ilustrativo de corredor de uma loja Marco Horizonte",
         "legenda": "Perto de si, todos os dias.",
-        "recorte": true
+        "recorte": false,
+        "srcset": "assets/interior-retocada-v3-640.jpg 640w, assets/interior-retocada-v3-1024.jpg 1024w, assets/interior-retocada-v3.jpg 1495w",
+        "sizes": "(max-width:720px) 88vw, 44vw",
+        "width": 1495,
+        "height": 1052
       },
       {
-        "src": "assets/fruta-loja.png",
-        "alt": "Banca de fruta e legumes numa loja Marco Horizonte",
+        "src": "assets/fruta-retocada-v3-1024.jpg",
+        "alt": "Tratamento ilustrativo de banca de fruta e legumes numa loja Marco Horizonte",
         "legenda": "Cor e frescura à sua espera.",
-        "recorte": true
+        "recorte": false,
+        "srcset": "assets/fruta-retocada-v3-640.jpg 640w, assets/fruta-retocada-v3-1024.jpg 1024w, assets/fruta-retocada-v3.jpg 1589w",
+        "sizes": "(max-width:720px) 88vw, 44vw",
+        "width": 1589,
+        "height": 990
       },
       {
-        "src": "assets/garrafeira-loja.png",
-        "alt": "Exposição de bebidas numa loja Marco Horizonte",
+        "src": "assets/garrafeira-retocada-v3-1024.jpg",
+        "alt": "Tratamento ilustrativo de exposição de bebidas numa loja Marco Horizonte",
         "legenda": "Escolhas para partilhar à mesa.",
-        "recorte": true
+        "recorte": false,
+        "srcset": "assets/garrafeira-retocada-v3-640.jpg 640w, assets/garrafeira-retocada-v3-1024.jpg 1024w, assets/garrafeira-retocada-v3.jpg 1491w",
+        "sizes": "(max-width:720px) 88vw, 44vw",
+        "width": 1491,
+        "height": 1055
       }
     ]
   },
@@ -306,6 +323,32 @@
     "reposto": "Exemplo reposto. O PDF local foi removido."
   },
   "geocodificacao": {
-    "endpoint": "https://photon.komoot.io/api/"
+    "endpoint": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/",
+    "limit": 12,
+    "bias": {
+      "lat": 41.18,
+      "lng": -8.2
+    },
+    "municipalities": [
+      "Marco de Canaveses",
+      "Penafiel",
+      "Lousada",
+      "Amarante",
+      "Baião",
+      "Felgueiras",
+      "Paredes",
+      "Paços de Ferreira",
+      "Porto",
+      "Vila Nova de Gaia",
+      "Matosinhos",
+      "Maia",
+      "Gondomar",
+      "Valongo",
+      "Santo Tirso",
+      "Trofa",
+      "Vila do Conde",
+      "Póvoa de Varzim",
+      "Espinho"
+    ]
   }
 }
